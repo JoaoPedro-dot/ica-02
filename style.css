@@ -1,0 +1,21 @@
+/*Styling goes on this file */
+
+bosy {
+	font-family: Arial;
+}
+
+.centered {
+	text-align: center;
+}
+
+#name {
+	font-size: 30px;
+	color: green;
+	font-style: italics;
+}
+
+#other-text {
+	text-align: left;
+	color: blue;
+	font-weight: bold;
+}
