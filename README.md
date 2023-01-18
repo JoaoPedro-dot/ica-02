@@ -1,7 +1,7 @@
 # ic-02
 ic-02 - Intro to HTML and CSS
 
-(GitHub Pages)[insert your hyperlink here]
+(GitHub Pages)[https://github.com/JoaoPedro-dot/ica-02]
 
 ## Purpose
 
